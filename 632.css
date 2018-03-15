@@ -31,6 +31,17 @@ table {
     margin-bottom: 20px;
 }
 .x{background-color:#FAFAFA;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    height: 37px;
+    line-height: 20px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    text-align: left;
+    text-size-adjust: 100%;
 }
 table{
 	background-color: rgba(0, 0, 0, 0);
