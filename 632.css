@@ -1,5 +1,6 @@
 .x{
 	background-color:#FAFAFA;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 	.e:hover {
 	background-color:whitesmoke;
@@ -10,7 +11,8 @@
     max-width: 100%;
     margin-bottom: 20px;
 	border-collapse: collapse;
-	
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:14px;
 	}
 th,tr,td{padding:8px;}
 h1{
